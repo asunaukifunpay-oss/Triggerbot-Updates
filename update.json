@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "minecraft_version": "1.21.4",
-  "download_url": "https://github.com/asunaukifunpay-oss/Triggerbot-Updates/releases/latest/download/TriggerBot-1.0.1.jar",
-  "sha256": "PENDING_FIRST_RELEASE",
-  "release_url": "https://github.com/asunaukifunpay-oss/Triggerbot-Updates/releases/latest"
+  "download_url": "https://github.com/asunaukifunpay-oss/Triggerbot-Updates/releases/download/v1.0.2/TriggerBot-1.0.2.jar",
+  "sha256": "eae50b3c2391782e0b4be26238d09455b7edd39f03b0174ad313804774e27116",
+  "release_url": "https://github.com/asunaukifunpay-oss/Triggerbot-Updates/releases/tag/v1.0.2"
 }
